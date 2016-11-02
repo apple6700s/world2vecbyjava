@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/admin/workspace/world2vecbyjava/lib/ansj_seg-5.0.3.jar" sourcepath="C:/Users/admin/.m2/repository/org/ansj/ansj_seg/5.0.3/ansj_seg-5.0.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/workspace/world2vecbyjava/lib/fastjson-1.2.20.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/workspace/world2vecbyjava/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/workspace/world2vecbyjava/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/workspace/world2vecbyjava/lib/nlp-lang-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/workspace/world2vecbyjava/lib/slf4j-api-1.7.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/workspace/world2vecbyjava/lib/tree_split-1.0.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
